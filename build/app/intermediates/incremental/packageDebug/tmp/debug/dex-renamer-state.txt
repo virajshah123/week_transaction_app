@@ -1,0 +1,4 @@
+#Sun Jan 16 13:03:15 EST 2022
+base.0=C\:\\Users\\viraj\\OneDrive\\Desktop\\Flutter Apps Desktop\\week_transaction_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
